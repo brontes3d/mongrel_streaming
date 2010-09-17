@@ -1,0 +1,5 @@
+stream a file in the response via mongrel or passenger
+
+Copyright (c) 2008-2010 3M. All rights reserved. Released under the MIT license.
+
+Authored by Jacob Burkhart.
